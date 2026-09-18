@@ -1,0 +1,4 @@
+employee_id,name,department,designation,salary,email,phone,location
+1001,Ali Khan,IT,Python Developer,85000,ali@example.com,03001234567,Lahore
+1002,Ahmed Raza,HR,HR Officer,75000,ahmed@example.com,03007654321,Islamabad
+1003,Usman Ali,Finance,Accountant,92000,usman@example.com,03001112233,Multan
