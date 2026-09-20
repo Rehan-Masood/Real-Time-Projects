@@ -4,6 +4,10 @@ A premium Streamlit application for:
 
 **PDF → Type Detection → Native Table/Text Extraction or OCR → Dynamic Columns → Validation → Review/Edit → DOCX Mail Merge → PDF → ZIP**
 
+## 🔗 Live Demo
+
+**[View Live Portfolio →](https://real-time-projects-zqncakinx2evnywenfqhmk.streamlit.app/)**
+
 ## What is improved in this version?
 
 ### 1. Automatic PDF type handling
