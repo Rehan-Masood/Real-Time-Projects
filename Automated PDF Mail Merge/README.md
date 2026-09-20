@@ -6,7 +6,7 @@ A premium Streamlit application for:
 
 ## 🔗 Live Demo
 
-**[View Live Portfolio →](https://real-time-projects-zqncakinx2evnywenfqhmk.streamlit.app/)**
+**[View Live MailFlow →](https://real-time-projects-zqncakinx2evnywenfqhmk.streamlit.app/)**
 
 ## What is improved in this version?
 
